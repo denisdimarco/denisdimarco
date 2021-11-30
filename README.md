@@ -1,7 +1,7 @@
 ### Hi I'm Denis Di Marco👋
 
-${denisdimarco}.${denisdimarco}
-![visitors](https://circular-aboard-parrotfish.glitch.me/badge?page_id=denisdimarco.id.visitor-badge.)
+
+![visitors](https://circular-aboard-parrotfish.glitch.me/badge?page_id=denisdimarco.id.visitor-badge)
 
 <!--
 **denisdimarco/denisdimarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
