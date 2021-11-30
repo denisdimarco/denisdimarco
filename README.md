@@ -1,7 +1,11 @@
 ### Hi I'm Denis Di Marco👋
 
+I'm a Java Spring Developer. 
 
-![visitors](https://circular-aboard-parrotfish.glitch.me/badge?page_id=denisdimarco.visitors-badge)
+Trying to keep improving my skills && my self every day. 💪🏼
+
+
+
 
 
                 
