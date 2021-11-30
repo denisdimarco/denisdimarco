@@ -1,9 +1,9 @@
 ### Hi I'm Denis Di Marco👋
 
 
-![visitors](https://circular-aboard-parrotfish.glitch.me/badge?page_id=denisdimarco.id.denisdimarco)
+![visitors](https://circular-aboard-parrotfish.glitch.me/badge?page_id=denisdimarco.id)
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
                 
 
 <!--
