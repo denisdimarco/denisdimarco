@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Denis Di Marco. 
 
 
-I'm a Java Spring Developer.
+I'm a Back-End Java Spring Developer.
 
 
 Trying to keep improving my self every day. 💪🏼
