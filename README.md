@@ -4,7 +4,8 @@
 I'm a Back-End Java Spring Developer.
 
 
-Trying to keep improving my self every day. 💪🏼
+Trying to improve my self every day. 💪🏼
+
 
 
 
