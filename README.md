@@ -1,17 +1,10 @@
-### Hi 👋 I'm Denis Di Marco. 
-
-
-I'm a Back-End Java Spring Developer.
-
-
-Trying to improve my self every day. 💪🏼
+### Hi I'm Denis Di Marco a Back-End Java Spring Developer.
 
 I work with Java, Spring Framework, Angular, React. 
 
-My favorite development tools are: 
-  - IntelliJ Idea, WebStorm, DataGrip
+My favorites development tools are: 
+  - IntelliJ Idea, WebStorm, DataGrip.
   - GitKraken
-  - Jira
        
 
 <!--
