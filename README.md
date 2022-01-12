@@ -1,6 +1,9 @@
-### Hi I'm Denis Di Marco a Back-End Java Spring Developer.
+### Welcome to my GitHub, I'm Denis Di Marco a Back-End Java Spring Developer.
 
-I work with Java, Spring Framework, Angular, React. 
+
+I love to work with Java and Spring Framework on the backend side.
+
+Currently I'm learning a bit of Angular and React to go to a more FullStack profile. 
 
 My favorites development tools are: 
   - IntelliJ Idea, WebStorm, DataGrip.
