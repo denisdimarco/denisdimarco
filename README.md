@@ -1,13 +1,15 @@
 ### Welcome to my GitHub, I'm Denis Di Marco a Back-End Java Spring Developer.
 
 
-I love to work with Java and Spring Framework on the backend side.
+I work with Java, Spring Framework, Spring-Boot, JUnit, Swagger, PostgreSQL, MySQL on the backend side.
 
 Currently I'm learning a bit of Angular and React to go to a more FullStack profile. 
 
-My favorites development tools are: 
+My favorites tools are: 
+
   - IntelliJ Idea, WebStorm, DataGrip.
-  - GitKraken
+  - GitKraken, Postman.
+  - Jira
        
 
 <!--
