@@ -8,7 +8,7 @@ Currently I'm learning a bit of Angular and React to go to a more FullStack prof
 My favorites tools are: 
 
   - IntelliJ Idea, WebStorm, DataGrip.
-  - GitKraken, Postman.
+  - GitKraken.
   - Jira
        
 
