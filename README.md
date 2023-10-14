@@ -1,7 +1,7 @@
 ### Welcome to my GitHub, I'm Denis Di Marco a Back-End Java Spring Developer.
 
 
-I work with Java, Spring Framework, Spring-Boot,  Swagger, PostgreSQL, MySQL, on the backend side.
+I work with Java, Spring Framework, Spring-Boot, SQL Serve on the backend side.
 
 My favorites tools are: 
 
